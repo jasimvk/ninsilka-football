@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Ninsilka Football Review",
-  description: "The ultimate football analysis and review platform.",
+  title: "Total Pitch: Football Intelligence",
+  description: "Advanced tactical analysis and match reviews for the modern football purist.",
 };
 
 export default function RootLayout({

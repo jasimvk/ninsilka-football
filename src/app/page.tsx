@@ -49,7 +49,7 @@ export default function Home() {
             </span>
           </div>
           <h1 className="text-6xl md:text-8xl font-black tracking-tighter mb-6 bg-clip-text text-transparent bg-gradient-to-b from-white to-zinc-400">
-            NINSILKA <br/>FOOTBALL
+            TOTAL <br/>PITCH
           </h1>
           <p className="text-lg md:text-xl text-zinc-400 mb-8 max-w-2xl mx-auto">
             Deep tactical analysis, player evolution tracking, and raw match reviews for the true football purist.
@@ -143,7 +143,7 @@ export default function Home() {
       </section>
 
       <footer className="py-12 border-t border-zinc-900 text-center text-zinc-600 text-sm">
-        &copy; 2026 Ninsilka Football Review. Powered by EndurxLabs.
+        &copy; 2026 Total Pitch. Powered by EndurxLabs.
       </footer>
     </main>
   );
